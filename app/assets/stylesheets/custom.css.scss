@@ -8,7 +8,7 @@ html {
 }
 
 body {
-	padding-top: 60px;
+	padding-top: 40px;
 }
 
 section {
@@ -50,6 +50,7 @@ h2 {
 }
 
 p {
+	  background-color: white !important;
   font-size: 1.1em;
   line-height: 1.7em;
 }
@@ -76,6 +77,10 @@ p {
 /* footer */
 
 footer {
+    bottom: 0;
+    height: 100xp;
+  background-color: white !important;
+  background-position: bottom ;
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid $grayMediumLight;
