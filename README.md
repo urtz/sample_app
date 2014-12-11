@@ -1,6 +1,6 @@
 # Ruby on Rails チュートリアル：サンプルアプリ
 
-これは、サンプルアプリ？です。
+これは、サンプルアプリです。
 [*ほげほげほげほげほげ*](http://example.com)
 by [ぴｙぴｐｙぴょいっｐ](http://gooooooogle.com)
 
