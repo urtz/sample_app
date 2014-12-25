@@ -16,7 +16,11 @@ html {
 
 body {
 	padding-top: 40px;
+
+  color: white;
+  text-shadow: 0px 0px 4px rgba(0,0,0,1.0);
 }
+
 
 section {
 	overflow: auto;
@@ -159,6 +163,7 @@ input, textarea, select, .uneditable-input {
 	padding: 10px;
 	margin-bottom: 15px;
 	@include box_sizing;
+	float: left;
 }
 
 input {
@@ -179,3 +184,4 @@ input {
 }
 
 /**/
+
